@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Phoom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Phoom\\.nuget\\packages"
+    ]
+  }
+}
